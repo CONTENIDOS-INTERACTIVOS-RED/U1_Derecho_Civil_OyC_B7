@@ -304,7 +304,7 @@ export default {
               {
                 id: 'c',
                 texto:
-                  'Un acontecimiento al que el Derecho le atribuye consecuencias jurídicas (respuesta correcta)',
+                  'Un acontecimiento al que el Derecho le atribuye consecuencias jurídicas',
                 esCorrecta: true,
               },
               {
@@ -329,7 +329,7 @@ export default {
               },
               {
                 id: 'b',
-                texto: 'Un contrato de compraventa (respuesta correcta)',
+                texto: 'Un contrato de compraventa',
                 esCorrecta: true,
               },
               {
@@ -365,7 +365,7 @@ export default {
               },
               {
                 id: 'c',
-                texto: 'Su nulidad relativa (respuesta correcta)',
+                texto: 'Su nulidad relativa',
                 esCorrecta: true,
               },
               {
@@ -390,8 +390,7 @@ export default {
               },
               {
                 id: 'b',
-                texto:
-                  'El motivo lícito y real que lo justifica (respuesta correcta)',
+                texto: 'El motivo lícito y real que lo justifica',
                 esCorrecta: true,
               },
               {
@@ -423,7 +422,7 @@ export default {
               {
                 id: 'b',
                 texto:
-                  'Aquellos que pueden agregarse para modificar sus efectos sin afectar su validez (respuesta correcta)',
+                  'Aquellos que pueden agregarse para modificar sus efectos sin afectar su validez',
                 esCorrecta: true,
               },
               {
