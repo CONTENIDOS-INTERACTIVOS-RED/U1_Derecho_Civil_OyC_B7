@@ -65,10 +65,10 @@
         
         .bg-color-10
           .row.align-items-center
-            .col-lg-5.order-2
+            .col-lg-5.order-lg-2.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema3/7.svg", data-aos="zoom-in")
-            .col-lg-7.order-1.mb-3.mb-lg-0.px-5
+            .col-lg-7.order-lg-1px-5
               p(data-aos="fade-left") Aunque comúnmente se asocia la obligación jurídica con el contrato, existen múltiples situaciones en las que una obligación surge sin necesidad de un acuerdo entre partes. En el caso del delito civil (como un daño intencional) o del cuasidelito (daño causado sin intención, pero con culpa), el hecho genera una obligación de reparar.
         .bg-color-7
           .row.mb-5.align-items-center

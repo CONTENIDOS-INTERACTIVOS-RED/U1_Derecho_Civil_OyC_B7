@@ -119,7 +119,7 @@
     
         .bg-color-8.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/13.svg", style="max-width: 180px").mx-auto
             .col-lg
               p.mb-0 En conclusión, el acto jurídico, en tanto manifestación de voluntad generadora de efectos legales, es una herramienta fundamental para comprender cómo operan las relaciones entre particulares en el Derecho Civil. Su estudio no solo permite al estudiante familiarizarse con los requisitos de validez y los efectos jurídicos, sino que también sienta las bases para abordar temas más complejos como los contratos, las obligaciones, la responsabilidad civil y los actos de familia. Es, en definitiva, la puerta de entrada a la comprensión técnica del Derecho Privado y una herramienta indispensable para el ejercicio profesional riguroso, ético y eficiente.

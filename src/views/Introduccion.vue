@@ -4,10 +4,10 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
 
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         p(data-aos="fade-left") La presente unidad introduce al estudiante en el estudio de las obligaciones como eje central del Derecho Civil Patrimonial. Comprender qué es una obligación, cómo se origina, qué efectos produce y cuáles son sus fuentes, resulta esencial para el análisis de las relaciones jurídicas que regulan la vida en sociedad. En este contexto, se abordarán también las categorías fundamentales del acto jurídico, negocio jurídico y hecho jurídico, las cuales constituyen el punto de partida para el entendimiento de cómo surgen, se transforman o se extinguen los vínculos jurídicos entre los sujetos de derecho.
     
         .bg-color-1.p-4(data-aos="fade-left")
