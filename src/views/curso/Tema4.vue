@@ -253,15 +253,15 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/63127 " target="_blank" rel="noopener noreferrer") Acedo Penco, Á. (2011). Teoría general de las obligaciones: (2 ed.). Dykinson. 
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://blogs.ugto.mx/contador/clase-digital-3-teoria-del-hecho-juridico-y-de-los-actos-juridicos " target="_blank" rel="noopener noreferrer") Universidad de Guanajuato. (s.f.). Clase digital 3: Teoría del hecho jurídico y de los actos jurídicos.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=Fqs0-GU6D5c" target="_blank" rel="noopener noreferrer") Cápsulas Jurídicas. (2020, 22 de febrero). Fuentes de las obligaciones. [Video]. YouTube.
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
