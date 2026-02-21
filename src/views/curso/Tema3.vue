@@ -76,7 +76,7 @@
               figure
                 img(src="@/assets/curso/tema3/8.svg", data-aos="zoom-in")
             .col-lg-7.order-1.px-5
-              p(data-aos="fade-left") Aunque comúnmente se asocia la obligación jurídica con el contrato, existen múltiples situaciones en las que una obligación surge sin necesidad de un acuerdo entre partes. En el caso del delito civil (como un daño intencional) o del cuasidelito (daño causado sin intención, pero con culpa), el hecho genera una obligación de reparar.
+              p(data-aos="fade-left") Lo mismo ocurre con figuras como el cuasicontrato, donde una persona recibe un beneficio sin causa legal y debe restituirlo, aunque no exista contrato de por medio. Todos estos casos tienen un denominador común: un hecho da lugar a una consecuencia jurídica que impone un deber.
     
     .bg-color-8.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
@@ -128,7 +128,7 @@
             th.bg-color-12.text-white Negocio Jurídico
         tbody
           tr
-            th Negocio Jurídico
+            th Definición
             td Acontecimiento natural o humano que produce efectos jurídicos sin necesidad de una intención.
             td Manifestación de voluntad humana que tiene como fin, producir efectos jurídicos.
             td Acto jurídico voluntario y lícito, destinado a crear, modificar o extinguir derechos u obligaciones, conforme a la voluntad de las partes.
